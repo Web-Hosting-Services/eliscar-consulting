@@ -1,0 +1,58 @@
+.calc {
+    width: 300px;
+    height: 300px;
+    border-radius: 20rem;
+    margin-bottom: 20px;
+  }
+
+  .cal2 {
+  
+    border-radius: 1rem;
+  }
+
+  .calc3 {
+    height: 300px;
+    width: 450px;
+    border-radius: 1rem;
+    margin-bottom: 20px;
+  }
+
+
+  .list1{
+   margin-right: 20px;
+   text-align: center;
+   
+  }
+
+  .list2{
+    text-align: left;
+    margin-left: -25px;
+  }
+
+  .gradient-background {
+    background: linear-gradient(300deg, #062fe5, #4ac6ff, #0014aa);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+
+  .nav-link:hover {
+    color: black;
+  }
+
+  .text2{
+    text-align: left;
+  }
+
+  #navbar-example2 {
+    position: fixed;
+    width: 100%;
+  }
+
+  h1 {
+    color: rgb(0, 36, 150);
+  }
+  
+  h3 {
+    color: rgb(0, 36, 150);
+  }
+ 
